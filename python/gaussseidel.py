@@ -24,7 +24,7 @@ def gaussseidel(A, b, erro):
 
     Entrada(s):
                 i) A (list): matriz simétrica e positiva definida;
-                ii) b (func): vetor independente do sistema;
+                ii) b (list): vetor independente do sistema;
                 iii) erro (float): tolerância de erro aceitável;
     
     Saída(s):
